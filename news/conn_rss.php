@@ -1,6 +1,6 @@
 <?php
 /**** PHP Web Crawler ****/
-/** DB connect for rss.php **/
+/** DB connection for rss.php **/
 /**** Tyler Normile ****/ 
 $server = "SERVER";
 $username = "USERNAME";
