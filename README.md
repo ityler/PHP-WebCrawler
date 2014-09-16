@@ -10,3 +10,6 @@
 - cURL 
 - MySQL 5.5+ (tested)
 
+# TO-DO:
+- Switch to PDO
+- Standard retrieval class
