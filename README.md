@@ -13,3 +13,6 @@
 # TO-DO:
 - Switch to PDO
 - Standard retrieval class
+- Run-type configuration
+  - Production
+  - Development
